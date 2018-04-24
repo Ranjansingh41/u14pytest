@@ -1,5 +1,5 @@
 jobs:
-  - name: python-test
+  - name: u14python-test
     type: runSh
     steps:
       - TASK:
