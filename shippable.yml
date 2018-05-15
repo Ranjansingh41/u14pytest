@@ -13,5 +13,6 @@ jobs:
             - python3.4 --version
             - python3.5 --version
             - python3.6 --version
+            - python3.7 --version
             - pip --version
             - virtualenv --version
