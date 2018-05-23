@@ -8,7 +8,7 @@ jobs:
               imageName: "drydock/u14pytall"
               imageTag: master
           script:
-          
+             - python --version
              - python2.3 -V
              - python2.4 -V
              - python2.5 -V
@@ -22,4 +22,4 @@ jobs:
              - python3.6 -V
              - python3.7 -V
              - pip --version
-             - virtualenv --version
+            
